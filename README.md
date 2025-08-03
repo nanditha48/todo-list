@@ -1,3 +1,4 @@
+![TodoList-Opera2025-08-0313-34-56-ezgif com-resize](https://github.com/user-attachments/assets/98943998-863d-4f58-8237-658a805bbc09)
 # TodoList
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
@@ -57,3 +58,4 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
